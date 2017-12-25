@@ -1,0 +1,2 @@
+# SCCMOSActivationQuery
+Activated OS's
